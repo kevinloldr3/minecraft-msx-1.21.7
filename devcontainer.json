@@ -1,5 +1,0 @@
-{
-  "name": "Minecraft MSX Server 1.21.7",
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
-  "postCreateCommand": "bash start.sh"
-}
